@@ -1,5 +1,5 @@
-lua_protobuf/*.pyc
+rst_protobuf/*.pyc
 build
 dist
 build
-lua_protobuf.egg-info
+rst_protobuf.egg-info
